@@ -1,5 +1,5 @@
 # UNSW Python Power
 
-# Python modules (dependencies)
+## Python modules (dependencies)
 - smtplib
 - requests
